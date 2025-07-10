@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ajay",
+      "email": "ajay12@gmail.com",
+      "phone": "9876364589"
+    },
+    {
+      "id": "2",
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "phone": "9836347353"
+    },
+    {
+      "id": "3",
+      "name": "gokul",
+      "email": "gokul@gmail.com",
+      "phone": "6477358733"
+    },
+    {
+      "id": "4",
+      "name": "vishwa",
+      "email": "vishwa@gmail.com",
+      "phone": "3698473253"
+    },
+    {
+      "id": "5",
+      "name": "logesh",
+      "email": "logesh@gmail.com",
+      "phone": "6448767353"
+    },
+    {
+      "id": "eac0",
+      "name": "harish",
+      "email": "harish@gmail.com",
+      "phone": "6448767353"
+    }
+  ]
+}
